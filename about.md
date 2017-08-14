@@ -26,7 +26,7 @@ and sometimes play Mahjong or Go.
 
 I'm available for [consulting][consulting] as well.
 
-I love open source, Haskell, Common Lisp Ruby, and live in Emacs on Linux/OS X.
+I love open source, Haskell, Common Lisp, Ruby and live in Emacs on Linux/macOS.
 
 __About this blog__
 
