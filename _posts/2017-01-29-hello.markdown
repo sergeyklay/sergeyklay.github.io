@@ -1,10 +1,8 @@
 ---
-title: About
-permalink: about/
-profile: true
+title:  "Hello"
+date:   2017-01-29 10:18:00
+description: The first blog post
 ---
-
-__Hello__
 
 My name is Serghei Iakovlev, and you're looking at the 4th reincarnation of my
 web presence. I use this blog to share ideas and code snippets using my favorite
@@ -35,8 +33,6 @@ This blog is built with [Jekyll][jekyll], and hosted by
 
 Want to take a look, or suggest changes?
 Check out or fork the [Github][gh-project] project.
-
-{% include footer.html %}
 
 [gpg-key]: /DC898A5F.asc
 [phalcon]: https://phalconphp.com/

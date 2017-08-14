@@ -1,3 +1,16 @@
+# Please do not use this ignore file to define platform specific files.
+#
+# For these purposes create a global .gitignore file, which is a list of rules
+# for ignoring files in every Git repository on your computer.
+#
+# https://help.github.com/articles/ignoring-files/#create-a-global-gitignore
+
 _site/
-.sass-cache/
-.DS_Store
+.jekyll/
+.jekyll-metadata/
+.bundle/
+.sass-cach/e
+Gemfile
+Gemfile.lock
+node_modules/
+package.json
