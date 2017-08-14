@@ -11,7 +11,7 @@ highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 20
-baseurl: /
+baseurl: "https://sergeyklay.github.io/"
 domain_name: 'https://sergeyklay.github.io'
 google_analytics: 'UA-85434340-2'
 disqus: true
