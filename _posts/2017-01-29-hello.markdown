@@ -2,6 +2,7 @@
 title:  "Hello"
 date:   2017-01-29 10:18:00
 description: The first blog post
+comments: true
 ---
 
 My name is Serghei Iakovlev, and you're looking at the 4th reincarnation of my

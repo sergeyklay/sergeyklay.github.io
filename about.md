@@ -2,6 +2,7 @@
 title: About
 permalink: about/
 profile: true
+comments: false
 ---
 
 __Hello__

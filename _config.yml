@@ -22,6 +22,7 @@ domain_name: 'https://sergeyklay.github.io'
 google_analytics: 'UA-85434340-2'
 disqus: true
 disqus_shortname: 'sergeyklay'
+disqus_uri: 'serghei-iakovlev-blog.disqus.com'
 
 # Details for the RSS feed generator
 url:            'https://sergeyklay.github.io'
