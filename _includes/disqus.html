@@ -6,9 +6,9 @@
          this.page.url = "{{ site.url}}{{ page.url }}";
          this.page.identifier = "{{ page.id }}";
          (function() {
+             var d = document, s = d.createElement('script');
              s.src = '//{{ site.disqus_uri }}/embed.js';
              s.setAttribute('data-timestamp', +new Date());
-
              (d.head || d.body).appendChild(s);
          })();
     </script>

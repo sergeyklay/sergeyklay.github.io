@@ -12,9 +12,10 @@ archive: true
         {{content}}
     </section>
 </article>
+
 <footer id="post-meta" class="clearfix">
     <a href="http://twitter.com/{{ site.authorTwitter }}">
-        <img class="avatar" src="{{ site.baseurl }}assets/images/avatar3.jpg">
+        <img class="avatar" src="{{ site.url }}/assets/images/avatar3.jpg">
         <div>
             <span class="dark">{{ site.author }}</span>
             <span>{{ site.description }}</span>
@@ -40,7 +41,7 @@ archive: true
         <h3>Read more</h3>
         {% for post in site.posts %}
             <li>
-                <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+                <a href="{{ site.url }}{{ post.url }}">
                     {{ post.title }}
                     <aside class="dates">{{ post.date | date:"%b %d" }}</aside>
                 </a>
