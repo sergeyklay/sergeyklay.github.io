@@ -9,9 +9,15 @@ aboutPage: true
 markdown: kramdown
 highlighter: rouge
 
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-mentions
+  - jemoji
+
 paginate: 20
-baseurl: "https://sergeyklay.github.io/"
+
+baseurl: /
 domain_name: 'https://sergeyklay.github.io'
 google_analytics: 'UA-85434340-2'
 disqus: true
