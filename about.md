@@ -39,7 +39,7 @@ Check out or fork the [Github][gh-project] project.
 
 {% include footer.html %}
 
-[gpg-key]: /DC898A5F.asc
+[gpg-key]: {{ site.url }}/DC898A5F.asc
 [phalcon]: https://phalconphp.com/
 [codecept]: http://codeception.com/
 [pdffiller]: https://www.pdffiller.com/
