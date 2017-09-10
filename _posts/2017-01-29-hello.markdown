@@ -11,8 +11,10 @@ languages: Haskell, Common Lisp, Ruby.
 
 [My GPG public key.][gpg-key]
 
-I'm a programmer. I'm mostly focused on building API's, HTTP-related
-applications and improving development processes.
+I'm a programmer. I'm mostly focused on creating [Zephir Language][zephir],
+building parsers work with static and semantic analysis and research in
+high-performance compilers: advanced analyses and optimizations for
+high-performance computing.
 
 I'm part of [Phalcon Framework][phalcon], full-stack PHP framework
 delivered as a C-extension. I'm [Codeception][codecept] team member. I'm
@@ -36,6 +38,7 @@ Want to take a look, or suggest changes?
 Check out or fork the [Github][gh-project] project.
 
 [gpg-key]: {{ site.url }}/DC898A5F.asc
+[zephir]: https://zephir-lang.com/
 [phalcon]: https://phalconphp.com/
 [codecept]: http://codeception.com/
 [pdffiller]: https://www.pdffiller.com/
