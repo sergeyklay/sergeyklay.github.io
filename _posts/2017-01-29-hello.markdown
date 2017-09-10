@@ -16,6 +16,9 @@ building parsers work with static and semantic analysis and research in
 high-performance compilers: advanced analyses and optimizations for
 high-performance computing.
 
+For years now my focus has been on building and improving tools that make
+developers' lives easier and their time more effective.
+
 I'm part of [Phalcon Framework][phalcon], full-stack PHP framework
 delivered as a C-extension. I'm [Codeception][codecept] team member. I'm
 currently working at [PDFfiller][pdffiller], a comprehensive online document
