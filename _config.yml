@@ -17,8 +17,6 @@ plugins:
 
 paginate: 20
 
-baseurl: /
-
 google_analytics: 'UA-85434340-2'
 disqus: true
 disqus_shortname: 'sergeyklay'
