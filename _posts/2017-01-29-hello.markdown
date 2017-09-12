@@ -1,6 +1,6 @@
 ---
 title:  "Hello"
-date:   2017-01-29 10:18:00
+layout: post
 description: The first blog post
 comments: true
 ---
