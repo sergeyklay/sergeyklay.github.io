@@ -5,9 +5,6 @@ description: Research based on functional programming and how could this help in
 comments: true
 ---
 
-> Those who know don't talk.
-> Those who talk don't know.
-
 I would like you to note that all subprojects we have used in Phalcon e.g.:
 
 + **Zephir Parser**
