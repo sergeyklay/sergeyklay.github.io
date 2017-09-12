@@ -9,8 +9,7 @@ _site/
 .jekyll/
 .jekyll-metadata/
 .bundle/
-.sass-cach/e
-Gemfile
+.sass-cache
 Gemfile.lock
 node_modules/
 package.json
